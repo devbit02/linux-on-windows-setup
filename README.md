@@ -14,6 +14,12 @@ $ vagrant ssh
 ```
 
 ## Shutting down the virtual machine
+First exit the virtual machine by typing "exit" at the command prompt:
+```
+$ exit
+```
+Now you can safely shut down your virtual machine with the following command:
+
 ```
 $ vagrant halt
 ```
