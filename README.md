@@ -1,4 +1,4 @@
-# linux-on-widow-setup
+# linux-on-windows-setup
 This is my setup for running Linux on Windows using VirtualBox and Vagrant.  Vagrantfiles builds up a virtual machine with only the applications needed, allowing for quick and repeatable setup for the exact environment needed.
 
 ## Setup
